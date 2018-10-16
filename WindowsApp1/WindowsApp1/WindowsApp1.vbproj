@@ -134,6 +134,30 @@
     <Compile Include="180910\Form8.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="181016\1.Designer.vb">
+      <DependentUpon>1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="181016\1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="181016\2.Designer.vb">
+      <DependentUpon>2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="181016\2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="181016\3.Designer.vb">
+      <DependentUpon>3.vb</DependentUpon>
+    </Compile>
+    <Compile Include="181016\3.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="181016\4.Designer.vb">
+      <DependentUpon>4.vb</DependentUpon>
+    </Compile>
+    <Compile Include="181016\4.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="My Project\Application.Designer.vb">
       <AutoGen>True</AutoGen>
@@ -180,6 +204,18 @@
     </EmbeddedResource>
     <EmbeddedResource Include="180910\Form8.resx">
       <DependentUpon>Form8.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="181016\1.resx">
+      <DependentUpon>1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="181016\2.resx">
+      <DependentUpon>2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="181016\3.resx">
+      <DependentUpon>3.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="181016\4.resx">
+      <DependentUpon>4.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="My Project\Resources.resx">
       <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
